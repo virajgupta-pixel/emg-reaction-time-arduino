@@ -2,7 +2,7 @@
 
 > A low-cost, non-invasive surface-EMG system that times muscle activation against a visual stimulus, built as an analog biopotential front end plus Arduino Uno firmware for calibration, onset detection and a four-button reaction game. Motivated by the delayed, more variable reaction times seen in Parkinson's disease.
 
-Final project for **BioE 101** (Spring 2026, UC Berkeley, taught by Prof. Steven Conolly). Team: Anton, Madeleine, Nina and Viraj. **I wrote all of the Arduino firmware in this repository.**
+Final project for **BioE 101** (Spring 2026, UC Berkeley, taught by Prof. Steven Conolly). Team: Anton, Madeleine, Nina and Viraj. I wrote the Arduino firmware in this repository.
 
 - **Firmware:** [`firmware/reaction_time_final_3/reaction_time_final_3.ino`](firmware/reaction_time_final_3/reaction_time_final_3.ino)
 - **Final presentation:** [`docs/BioE101_EMG_Reaction_Time_Final_Presentation.pdf`](docs/BioE101_EMG_Reaction_Time_Final_Presentation.pdf)
